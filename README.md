@@ -119,6 +119,10 @@ git commit -m "Initial fenced Cursor workflow automation kit"
 
 See [PROVENANCE.md](PROVENANCE.md).
 
+## Future improvements
+
+See [FUTURE_IMPROVEMENTS.md](FUTURE_IMPROVEMENTS.md) for a backlog of possible kit enhancements (releases, in-Cursor updates, testing, install UX, and more).
+
 ## License
 
 Copyright © Chadwick Casper.
