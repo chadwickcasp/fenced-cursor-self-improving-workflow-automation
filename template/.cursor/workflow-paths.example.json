@@ -1,0 +1,18 @@
+{
+  "directories": [
+    {
+      "id": "workflow_templates",
+      "label": "Workflow Templates",
+      "path": "/your/path/to/templates",
+      "mode": "newest_dirs",
+      "limit": 3
+    },
+    {
+      "id": "automation_context",
+      "label": "Automation Context",
+      "path": "/your/path/to/context",
+      "mode": "named_files",
+      "files": ["preferences.md", "source-list.md"]
+    }
+  ]
+}

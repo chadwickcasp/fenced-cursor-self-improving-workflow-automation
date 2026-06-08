@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Python
+.venv/
+venv/
+
+# Local test installs / scratch
+scratch/
+local-test-repo/
