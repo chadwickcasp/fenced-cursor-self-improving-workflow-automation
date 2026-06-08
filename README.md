@@ -1,6 +1,6 @@
 # Fenced Cursor self-improving workflow automation
 
-A **portable kit** for Cursor projects: daily transcript digests, weekly approval-gated rule reviews, and Monday workflow suggestion stubs with a viewed queue. Extracted from the [mlops-project](https://github.com/) implementation (MLOps Zoomcamp portfolio app).
+A **portable kit** for Cursor projects: daily transcript digests, weekly approval-gated rule reviews, and Monday workflow suggestion stubs with a viewed queue.
 
 **Fenced** = automation proposes changes; you approve before `AGENTS.md` or `.cursor/rules` are edited.
 
@@ -116,8 +116,6 @@ git commit -m "Initial fenced Cursor workflow automation kit"
 ```
 
 ## Provenance
-
-First implemented in `mlops-project` (June 2026). This repo is the **reference copy** for reuse and version control—not a running application.
 
 See [PROVENANCE.md](PROVENANCE.md).
 
