@@ -123,4 +123,8 @@ See [PROVENANCE.md](PROVENANCE.md).
 
 ## License
 
-Use and adapt freely within your own projects; no warranty.
+Copyright © Chadwick Casper.
+
+Licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0). You may use, copy, modify, and distribute this kit for **noncommercial purposes** (personal, hobby, research, education, and similar uses). **Commercial use requires separate permission** from the licensor.
+
+See [LICENSE](LICENSE) for the full text.
